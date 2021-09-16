@@ -5,7 +5,7 @@
 *@version 14 Sep 2021
 */
 class HomeWork2 {
-	public static void main(String [] args){
+	public static void main(String [] args) {
 		positiveNumber(4 , 25);
 		negativeNumber1(-19);
 		negativeNumber1(0);
