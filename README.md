@@ -2,7 +2,7 @@
 /**
 *Java 1. Home work 2
 *@author Darya Kononenko
-*@version 12 Sep 2021
+*@version 14 Sep 2021
 */
 class HomeWork2 {
 	public static void main(String [] args){
@@ -13,7 +13,7 @@ class HomeWork2 {
 	}
 	
 	static void positiveNumber(int a , int b ){
-		System.out.println( a + b > 10 && a + b <= 20? "True" : "False");
+		System.out.println( a + b >= 10 && a + b <= 20? "True" : "False");
 	}
 	
 	static void negativeNumber1(int k){
